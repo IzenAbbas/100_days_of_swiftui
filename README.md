@@ -8,20 +8,43 @@ Each day has its own folder containing:
 
 ---
 
-## Progress
+## Repository Structure
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| [Day 01](Days/Day01/) | Variables, Constants, Strings, Numbers | ✅ |
-| [Day 02](Days/Day02/) | Booleans, String Interpolation, Checkpoint 1 | ✅ |
-| [Day 03](Days/Day03/) | Arrays, Dictionaries, Sets, Enums | ✅ |
-| [Day 04](Days/Day04/) | Type Annotations, Checkpoint 2 | ✅ |
-| [Day 05](Days/Day05/) | If, Switch, Ternary Operator | ✅ |
-| [Day 06](Days/Day06/) | Loops, Summary, Checkpoint 3 (FizzBuzz) | ✅ |
+```
+100_days_of_swiftui/
+├── Swift/
+│   └── Days/           ← Daily Swift fundamentals notes & playgrounds
+│       ├── Day01/
+│       ├── Day02/
+│       └── ...
+└── SwiftUI/
+    └── Projects/       ← SwiftUI project work (coming soon)
+```
 
 ---
 
-## Quick Reference — Days 1–6
+## Swift Fundamentals Progress
+
+| Day | Topic | Status |
+|-----|-------|--------|
+| [Day 01](Swift/Days/Day01/) | Variables, Constants, Strings, Numbers | ✅ |
+| [Day 02](Swift/Days/Day02/) | Booleans, String Interpolation, Checkpoint 1 | ✅ |
+| [Day 03](Swift/Days/Day03/) | Arrays, Dictionaries, Sets, Enums | ✅ |
+| [Day 04](Swift/Days/Day04/) | Type Annotations, Checkpoint 2 | ✅ |
+| [Day 05](Swift/Days/Day05/) | If, Switch, Ternary Operator | ✅ |
+| [Day 06](Swift/Days/Day06/) | Loops, Summary, Checkpoint 3 (FizzBuzz) | ✅ |
+
+---
+
+## SwiftUI Projects Progress
+
+| Project | Topic | Status |
+|---------|-------|--------|
+| — | *(coming soon)* | 🔜 |
+
+---
+
+## Quick Reference — Swift Days 1–6
 
 | Day | Core Concepts |
 |-----|---------------|
